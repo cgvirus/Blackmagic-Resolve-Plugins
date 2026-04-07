@@ -1,2 +1,3 @@
 # Blackmagic-Resolve-Plugins
-A collection of plugins, scripts macro and fuse by CGVIRUS
+A collection of plugins, scripts macro and fuse by CGVIRUS for 
+Blackmagic Vinci Resolve and Fusion.
